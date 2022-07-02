@@ -4,8 +4,8 @@
 
 ## PLAY MUSIC
 
-* [🎶 Listen to earn](play-music/listen-to-earn.md)
-* [🎵 Special Services](play-music/special-services.md)
+* [🎶 The mission](play-music/the-mission.md)
+* [🎵 Overview](play-music/overview.md)
 * [🛡 Anti-Dump Security](play-music/anti-dump-security.md)
 * [🎼 NFT's collection](play-music/nfts-collection.md)
 * [⚙ NFT's mechanics](play-music/nfts-mechanics.md)
