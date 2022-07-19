@@ -6,9 +6,8 @@
 
 * [🎶 The mission](play-music/the-mission.md)
 * [🎵 Overview](play-music/overview.md)
-* [🎼 NFT's collection](play-music/nfts-collection.md)
-* [⚙ NFT's mechanics](play-music/nfts-mechanics.md)
-* [🎤 NFT's Markplace](play-music/nfts-markplace.md)
+* [🎧 Dapp](play-music/dapp.md)
+* [🎼 Sing Along](play-music/sing-along.md)
 * [🛡 Anti-Dump Security](play-music/anti-dump-security.md)
 
 ## ecosystem

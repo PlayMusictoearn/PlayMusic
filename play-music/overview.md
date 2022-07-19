@@ -1,16 +1,14 @@
 ---
-description: DAO+DEFI+NFT+MUSIC=PLAY MUSIC
+description: DAO+DEFI+MUSIC=PLAY MUSIC
 cover: ../.gitbook/assets/Canva Design (1) (1).png
 coverY: 0
 ---
 
 # 🎵 Overview
 
-Play music aggregates all technological trends and innovates in a decentralized NFT with great goals in preaching and capturing musical inspirations.
-
 MUSIC aggregates innovative ways with DEFI (Decentralized Finance) and DAO (Decentralized Autonomous Organization) technologies into the digital collectibles ecosystem. The works of music artists are under a growing and supportive environment to evolve and expand.
 
-## &#x20; DAO + DEFI + NFT + MUSIC = PLAY MUSIC&#x20;
+## &#x20; DAO + DEFI + MUSIC = PLAY MUSIC&#x20;
 
 Our project covers a general context with the main theme MUSIC, where our investors will be able to earn money by listening to music, and will also have the right to buy and put songs on our platform. It will be a musical world, putting all singers on the same level, giving everyone the condition to prosper.
 
