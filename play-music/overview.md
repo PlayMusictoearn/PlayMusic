@@ -16,8 +16,3 @@ The governance concept we present is to allow each creator in the community to h
 
 An inspiration with any number of notes contains an infinite number of possibilities in MUSIC ! This gives us the perfect stage for our imagination and our out-of-the-box ideas. Here, we use the notes to interpret the music that belongs to us. Here, not a single note will be missed.
 
-*
-
-
-
-*
