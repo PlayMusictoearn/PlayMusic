@@ -5,7 +5,7 @@ coverY: 0
 
 # 🪙 Tokenomics
 
-## **TOTAL SUPPLY 10.000.000** &#x20;
+## **TOTAL SUPPLY** 100,000,000
 
 34%  Preasale \
 20%  Listen2earn - 30 days\

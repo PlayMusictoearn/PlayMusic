@@ -15,4 +15,15 @@ Phase 1
 
 Phase 2&#x20;
 
-*
+* [ ] Partnerships with influencers and international artists
+* [ ] Release of the first part of the Dapp
+* [ ] Multiple Coin Site Listings
+* [ ] CoinMarketCap Listing
+* [ ] Coingecko Listing
+
+Phase 3&#x20;
+
+* [ ] Mobile App Android and IOS Release
+* [ ] Exchange listings
+* [ ] And Much More Coming Soon!
+

@@ -16,7 +16,7 @@ Music has the ability to take us back in time, enliven a party, or set the mood 
 
 And making these benefits that music brings to humanity possible, PLAYMUSIC has found a way to aggregate and benefit investors, who, during their time of enjoying good music, can gain from it.
 
-Music is a human inspiration, which in its moments of pain, sadness, euphoria, joy and several others, puts into lyrics all the whirlwind of feelings involved. With this PlayMusic has developed a stake platform, where our investors will be entitled to win, listening to their most beautiful song! For we want to bring a therapeutic tool that is the music, for a financial therapy for our investors, and we will also open the world of possibilities that is our platform, for new world stars, where they can insert in our platform their songs! For that to be totally safe, we count on KYC and AUDIT ✅🎵A totally profitable and safe platform through blockchain✅🎶 Brief listing on CMC and coingencko✅🎼🎼 low buying and selling rate !🎵🎼🎼
+Music is a human inspiration, which in its moments of pain, sadness, euphoria, joy and several others, puts into lyrics all the whirlwind of feelings involved. With this PlayMusic has developed a stake platform, where our investors will be entitled to win, listening to their most beautiful song! For we want to bring a therapeutic tool that is the music, for a financial therapy for our investors, and we will also open the world of possibilities that is our platform, for new world stars, where they can insert in our platform their songs!&#x20;
 
 We are ready to give you a new experience just by listening to music.\
 A completely new and different experience, where your routine in listening to music won't change and you are still rewarded for it, that's really cool. For every minute of music you listen to you will be rewarded with MUSIC tokens, pretty cool don't you think?
@@ -27,11 +27,14 @@ A completely new and different experience, where your routine in listening to mu
 * Reward Market
 * Karaoke online
 
+{% embed url="https://www.bscscan.com/token/0xfa38f858fe2902760e8abe13cbe8c699b2406e8e" %}
+OFFICIAL CONTRACT
+{% endembed %}
+
 FAIRLAUNCH:\
 \
 KYC:\
 \
 AUDIT:\
-\
-OFFICIAL CONTRACT: 0xfA38F858fE2902760E8abE13cbE8C699b2406E8E
+
 
