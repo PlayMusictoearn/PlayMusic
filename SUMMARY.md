@@ -21,6 +21,7 @@
 
 * [🎙 Website](https://www.playmusic.tech/)
 * [🎙 Twitter](https://twitter.com/playmusicearn)
+* [🎙 Telegram](https://t.me/musicplayweb)
 * [🎙 Youtube](https://www.youtube.com/channel/UCjlcGD5Wg5ISRwhx7hcOrJg)
 * [🎙 Discord](https://discord.gg/9gBemJF652)
 * [🎙 Reddit](https://www.reddit.com/user/PlayMusicEarn/)
