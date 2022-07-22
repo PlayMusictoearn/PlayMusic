@@ -1,6 +1,6 @@
 ---
-cover: .gitbook/assets/Canva Design (1) (1).png
-coverY: 78.31762146482959
+cover: .gitbook/assets/Canva Design (1).png
+coverY: 72.84046692607004
 ---
 
 # 🎧 PlayMusic

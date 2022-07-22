@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/Canva Design (1) (1).png
+cover: broken-reference
 coverY: 0
 ---
 
@@ -7,13 +7,13 @@ coverY: 0
 
 ## **TOTAL SUPPLY** 100,000,000
 
-34%  Preasale \
-20%  Listen2earn - 30 days\
-07%  Airdrop\
-04%  Team\
-17%   Liquidity\
-02%  Burnt\
-014%  Stake music
+%  Preasale \
+%  Listen2earn - 30 days\
+%  Airdrop\
+%  Team\
+%   Liquidity\
+%  Burnt\
+%  Stake music
 
 ## &#x20;Selling tax allocation
 

@@ -1,6 +1,6 @@
 ---
 description: DAO+DEFI+MUSIC=PLAY MUSIC
-cover: ../.gitbook/assets/Canva Design (1) (1).png
+cover: broken-reference
 coverY: 0
 ---
 
