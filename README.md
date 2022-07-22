@@ -14,12 +14,12 @@ Music has the ability to take us back in time, enliven a party, or set the mood 
 * [x] **Music can improve our sleep.**\
   ****One study found that listening to classical music helps relieve insomnia symptoms in college students. Other research also suggests that music ...among other benefits.
 
-And making these benefits that music brings to humanity possible, PLAYMUSIC has found a way to aggregate and benefit investors, who, during their time of enjoying good music, can gain from it.
+And making these benefits that music brings to humanity possible, PlayMusic has found a way to aggregate and benefit investors, who, during their time of enjoying good music, can gain from it.
 
 Music is a human inspiration, which in its moments of pain, sadness, euphoria, joy and several others, puts into lyrics all the whirlwind of feelings involved. With this PlayMusic has developed a stake platform, where our investors will be entitled to win, listening to their most beautiful song! For we want to bring a therapeutic tool that is the music, for a financial therapy for our investors, and we will also open the world of possibilities that is our platform, for new world stars, where they can insert in our platform their songs!&#x20;
 
 We are ready to give you a new experience just by listening to music.\
-A completely new and different experience, where your routine in listening to music won't change and you are still rewarded for it, that's really cool. For every minute of music you listen to you will be rewarded with MUSIC tokens, pretty cool don't you think?
+A completely new and different experience, where your routine in listening to music won't change and you are still rewarded for it, that's really cool. For every minute of music you listen to you will be rewarded with PlayMusic tokens, pretty cool don't you think?
 
 * Trusted Platform
 * Modern Technology

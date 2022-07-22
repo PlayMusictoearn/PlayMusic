@@ -2,13 +2,13 @@
 
 * [🎧 PlayMusic](README.md)
 
-## PLAY MUSIC
+## PLAYMUSIC
 
-* [🎶 The mission](play-music/the-mission.md)
-* [🎵 Overview](play-music/overview.md)
-* [🎧 Dapp](play-music/dapp.md)
-* [🎼 Sing Along](play-music/sing-along.md)
-* [🛡 Anti-Dump Security](play-music/anti-dump-security.md)
+* [🎶 The mission](playmusic-1/the-mission.md)
+* [🎵 Overview](playmusic-1/overview.md)
+* [🎧 Dapp](playmusic-1/dapp.md)
+* [🎼 Sing Along](playmusic-1/sing-along.md)
+* [🛡 Anti-Dump Security](playmusic-1/anti-dump-security.md)
 
 ## ecosystem
 
