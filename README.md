@@ -30,13 +30,20 @@ A completely new and different experience, where your routine in listening to mu
 {% embed url="https://twitter.com/cz_binance/status/1529546470080270339?s=20&t=uTNPQ0TR9Q7A4UAlgNeoQA" %}
 
 {% embed url="https://www.bscscan.com/token/0xfa38f858fe2902760e8abe13cbe8c699b2406e8e" %}
-OFFICIAL CONTRACT
+**OFFICIAL CONTRACT**
+{% endembed %}
+
+{% embed url="https://github.com/PlayMusictoearn/PlayMusic/blob/git-branch--m-main/PlayMusic_0xfA38F858fE2902760E8abE13cbE8C699b2406E8E_m.pdf" %}
+**AUDIT**
 {% endembed %}
 
 FAIRLAUNCH:\
 \
 KYC:\
+
+
+
+
 \
-AUDIT:\
 
 
