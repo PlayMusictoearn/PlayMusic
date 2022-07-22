@@ -5,7 +5,9 @@ coverY: 35.019455252918284
 
 # 🪙 Tokenomics
 
-## **TOTAL SUPPLY** 100,000,000
+**TOTAL SUPPLY** 100,000,000
+
+**Token Play Music**
 
 %  Preasale \
 %  Listen2earn - 30 days\
@@ -14,6 +16,8 @@ coverY: 35.019455252918284
 %   Liquidity\
 %  Burnt\
 %  Stake music
+
+{% embed url="https://www.bscscan.com/token/0xfa38f858fe2902760e8abe13cbe8c699b2406e8e" %}
 
 ## &#x20;Selling tax allocation
 
