@@ -1,6 +1,6 @@
 ---
-cover: broken-reference
-coverY: 0
+cover: ../.gitbook/assets/Gitbook.jpg
+coverY: 34.31906614785992
 ---
 
 # 🎧 Dapp

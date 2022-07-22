@@ -1,6 +1,6 @@
 ---
-cover: ../.gitbook/assets/Canva Design (1).png
-coverY: 0
+cover: ../.gitbook/assets/Gitbook.jpg
+coverY: 38.794098781270044
 ---
 
 # ✅ Airdrops

@@ -1,7 +1,7 @@
 ---
 description: DAO+DEFI+MUSIC=PLAYMUSIC
-cover: broken-reference
-coverY: 0
+cover: ../.gitbook/assets/Gitbook.jpg
+coverY: 35.719844357976655
 ---
 
 # 🎵 Overview

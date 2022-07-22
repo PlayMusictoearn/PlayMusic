@@ -1,6 +1,6 @@
 ---
-cover: broken-reference
-coverY: 80.66715010877446
+cover: ../.gitbook/assets/Gitbook.jpg
+coverY: 35.019455252918284
 ---
 
 # 🎼 Sing Along

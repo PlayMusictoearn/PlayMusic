@@ -1,7 +1,7 @@
 ---
 description: Security
-cover: broken-reference
-coverY: 67.35315445975344
+cover: ../.gitbook/assets/Gitbook.jpg
+coverY: 37.82101167315175
 ---
 
 # 🛡 Anti-Dump Security

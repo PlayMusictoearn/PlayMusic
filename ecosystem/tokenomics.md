@@ -1,6 +1,6 @@
 ---
-cover: broken-reference
-coverY: 0
+cover: ../.gitbook/assets/Gitbook.jpg
+coverY: 35.019455252918284
 ---
 
 # 🪙 Tokenomics

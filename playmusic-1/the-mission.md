@@ -1,6 +1,6 @@
 ---
-cover: ../.gitbook/assets/Canva Design (1).png
-coverY: 64.22044960116025
+cover: ../.gitbook/assets/Gitbook.jpg
+coverY: 37.12062256809338
 ---
 
 # 🎶 The mission

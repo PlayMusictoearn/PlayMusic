@@ -1,6 +1,6 @@
 ---
-cover: ../.gitbook/assets/Canva Design (1).png
-coverY: 64.22907488986785
+cover: ../.gitbook/assets/Gitbook.jpg
+coverY: 35.019455252918284
 ---
 
 # ✅ Audit & KYC

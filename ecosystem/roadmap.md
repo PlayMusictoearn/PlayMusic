@@ -1,6 +1,6 @@
 ---
-cover: ../.gitbook/assets/Canva Design (1).png
-coverY: 75.96809282088469
+cover: ../.gitbook/assets/Gitbook.jpg
+coverY: 30.817120622568094
 ---
 
 # 🛤 Roadmap

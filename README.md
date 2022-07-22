@@ -1,6 +1,6 @@
 ---
-cover: .gitbook/assets/Canva Design (1).png
-coverY: 72.84046692607004
+cover: .gitbook/assets/Gitbook.jpg
+coverY: 35.019455252918284
 ---
 
 # 🎧 PlayMusic
@@ -26,6 +26,8 @@ A completely new and different experience, where your routine in listening to mu
 * Smooth Interaction
 * Reward Market
 * Karaoke online
+
+{% embed url="https://twitter.com/cz_binance/status/1529546470080270339?s=20&t=uTNPQ0TR9Q7A4UAlgNeoQA" %}
 
 {% embed url="https://www.bscscan.com/token/0xfa38f858fe2902760e8abe13cbe8c699b2406e8e" %}
 OFFICIAL CONTRACT
