@@ -33,14 +33,12 @@ A completely new and different experience, where your routine in listening to mu
 **OFFICIAL CONTRACT**
 {% endembed %}
 
-{% embed url="https://github.com/PlayMusictoearn/PlayMusic/blob/git-branch--m-main/PlayMusic_0xfA38F858fE2902760E8abE13cbE8C699b2406E8E_m.pdf" %}
-**AUDIT**\
-\
-
-{% endembed %}
-
 {% embed url="https://idopresales.com/play-music-kyc-verification/" %}
 **KYC**
+{% endembed %}
+
+{% embed url="https://github.com/PlayMusictoearn/PlayMusic/blob/7b90b7c658619e3588921a198a5076e3392fe360/PlayMusic_0xfA38F858fE2902760E8abE13cbE8C699b2406E8E_m.pdf" %}
+**AUDIT**
 {% endembed %}
 
 \
