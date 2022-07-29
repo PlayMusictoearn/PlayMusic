@@ -17,8 +17,6 @@ coverY: 35.019455252918284
 %  Burnt\
 %  Stake music
 
-{% embed url="https://www.bscscan.com/token/0xfa38f858fe2902760e8abe13cbe8c699b2406e8e" %}
-
 ## &#x20;Selling tax allocation
 
 * Buying TAX is 4% (2% International Partnerships and 2%rewards)
