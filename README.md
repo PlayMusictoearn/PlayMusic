@@ -37,6 +37,6 @@ A completely new and different experience, where your routine in listening to mu
 **KYC**
 {% endembed %}
 
-{% embed url="https://www.pinksale.finance/launchpad/0xd70D5Ed35D556f0117A8bE667eC0004a6c49e439?chain=BSC" %}
+{% embed url="https://www.pinksale.finance/launchpad/0xC3D096E69C9Cfc13f42c6f3B3281804f5F66B3fd?chain=BSC" %}
 **FAIRLAUNCH**
 {% endembed %}
