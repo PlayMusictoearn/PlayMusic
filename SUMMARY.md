@@ -16,6 +16,7 @@
 * [🛤 Roadmap](ecosystem/roadmap.md)
 * [✅ Audit & KYC](ecosystem/audit-and-kyc.md)
 * [✅ Airdrops](ecosystem/airdrops.md)
+* [✅ Fairlaunch](ecosystem/fairlaunch.md)
 
 ## SOCIAL MEDIA
 

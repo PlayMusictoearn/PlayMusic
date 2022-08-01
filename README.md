@@ -36,3 +36,7 @@ A completely new and different experience, where your routine in listening to mu
 {% embed url="https://idopresales.com/play-music-kyc-verification/" %}
 **KYC**
 {% endembed %}
+
+{% embed url="https://www.pinksale.finance/launchpad/0xd70D5Ed35D556f0117A8bE667eC0004a6c49e439?chain=BSC" %}
+**FAIRLAUNCH**
+{% endembed %}
