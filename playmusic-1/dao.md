@@ -4,5 +4,8 @@
 *   **DAO governance and governance token**
 
     While the PLAYMUSIC community intends to promote the use and value of NFTs, community members are responsible for the governance of the autonomous community, such as proposals, organizing votes and implementation, seeking cooperation, and continuing the expansion of the community
-*
+
+
+
+
 
