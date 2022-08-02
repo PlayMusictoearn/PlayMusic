@@ -15,6 +15,7 @@
 * [🪙 Tokenomics](ecosystem/tokenomics.md)
 * [🛤 Roadmap](ecosystem/roadmap.md)
 * [✅ Audit & KYC](ecosystem/audit-and-kyc.md)
+* [✅ SAFU](ecosystem/safu.md)
 * [✅ Airdrops](ecosystem/airdrops.md)
 * [✅ Fairlaunch](ecosystem/fairlaunch.md)
 
