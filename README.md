@@ -16,7 +16,11 @@ Music has the ability to take us back in time, enliven a party, or set the mood 
 
 And making these benefits that music brings to humanity possible, PlayMusic has found a way to aggregate and benefit investors, who, during their time of enjoying good music, can gain from it.
 
-Music is a human inspiration, which in its moments of pain, sadness, euphoria, joy and several others, puts into lyrics all the whirlwind of feelings involved. With this PlayMusic has developed a stake platform, where our investors will be entitled to win, listening to their most beautiful song! For we want to bring a therapeutic tool that is the music, for a financial therapy for our investors, and we will also open the world of possibilities that is our platform, for new world stars, where they can insert in our platform their songs!&#x20;
+Music is a human inspiration, which in the moments of hurt, sadness, euphoria, joy and many others, put into lyrics all the whirlwind of feelings involved.
+
+For music there are no barriers, whether you are a street artist, a metal drummer, an underground musician impacted by metal and folk music, from every superstar celebrity to a humble artist, music is the first and last energy that feeds your soul.
+
+With this, we seek to make real the paradox of fugacity to eternity. Our mission is to break through the antinomy and be pioneer in the unorthodox path to musical innovation.
 
 We are ready to give you a new experience just by listening to music.\
 A completely new and different experience, where your routine in listening to music won't change and you are still rewarded for it, that's really cool. For every minute of music you listen to you will be rewarded with PlayMusic tokens, pretty cool don't you think?
