@@ -9,7 +9,6 @@
 * [🎤 DeFi](playmusic-1/defi.md)
 * [🎹 DAO](playmusic-1/dao.md)
 * [🎧 Dapp](playmusic-1/dapp.md)
-* [Marketplace](playmusic-1/marketplace.md)
 * [🎼 Sing Along](playmusic-1/sing-along.md)
 * [🛡 Anti-Dump Security](playmusic-1/anti-dump-security.md)
 
