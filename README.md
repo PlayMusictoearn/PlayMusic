@@ -33,6 +33,10 @@ A completely new and different experience, where your routine in listening to mu
 
 {% embed url="https://twitter.com/cz_binance/status/1529546470080270339?s=20&t=uTNPQ0TR9Q7A4UAlgNeoQA" %}
 
+{% embed url="https://coinmarketcap.com/currencies/playmusic/" %}
+**CMC**
+{% endembed %}
+
 {% embed url="https://github.com/ContractChecker/SAFU/blob/main/PlayMusic_Token_0x5ECBaD49898f06FDBAA01282BC6edB83f217F365_SAFU_Certificate_By_ContractChecker.pdf" %}
 **SAFU**
 {% endembed %}

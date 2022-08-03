@@ -19,6 +19,7 @@
 * [✅ Audit & KYC](ecosystem/audit-and-kyc.md)
 * [✅ SAFU](ecosystem/safu.md)
 * [✅ Airdrops](ecosystem/airdrops.md)
+* [✅ CMC](ecosystem/cmc.md)
 * [✅ Fairlaunch](ecosystem/fairlaunch.md)
 
 ## SOCIAL MEDIA
