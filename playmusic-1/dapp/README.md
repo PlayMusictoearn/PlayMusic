@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/Gitbook.jpg
+cover: ../../.gitbook/assets/Gitbook.jpg
 coverY: 34.31906614785992
 ---
 
