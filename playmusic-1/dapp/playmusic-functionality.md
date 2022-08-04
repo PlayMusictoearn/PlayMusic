@@ -5,12 +5,12 @@ coverY: 0
 
 # ▪ PlayMusic Functionality
 
-* PlayMusic's principle is to give opportunities to artists who for various reasons have not achieved professional success, but also to allow listeners the possibility of earning money by listening to their favorite songs:
+* PlayMusic's principle is to give opportunities to artists who for various reasons have not achieved professional success, and also to allow listeners the possibility of earning money by listening to their favorite songs:
 
-Listener and Composer With this, every song that the investor listens to, the subscription royalties will be divided between composer and listener (investor).
+Listener and composer with this, every song that the investor listens to, the subscription royalties will be divided between composer and listener (investor).
 
-* Staking Platform To access the platform, investors will initially contribute $100 PLAY Token and will have a monthly fee of $10/month, where they will be able to listen to their favorite music, but will also have rewards when listening to them.
-* Subscription distribution The monthly subscription revenue will be distributed in the following ways:
+* Staking platform to access the platform, investors will initially contribute $100 PLAY token and will have a monthly fee of $10/month, where they will be able to listen to their favorite music, but will also have rewards when listening to them.
+* Subscription distribution the monthly subscription revenue will be distributed in the following ways:
 
 <!---->
 
