@@ -27,3 +27,8 @@ Phase 3&#x20;
 * [ ] Exchange listings
 * [ ] And Much More Coming Soon!
 
+Phase 4
+
+* [ ] Development of NFT's together with partner artists
+* [ ] Launch of the NFT's platform with the possibility of staking
+* [ ] International projection of NFT's PLAY

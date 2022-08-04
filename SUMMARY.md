@@ -6,6 +6,7 @@
 
 * [🎶 The mission](playmusic-1/the-mission.md)
 * [🎵 Overview](playmusic-1/overview.md)
+* [🎼 Web3](playmusic-1/web3.md)
 * [🎤 DeFi](playmusic-1/defi.md)
 * [🎹 DAO](playmusic-1/dao.md)
 * [🎧 Dapp](playmusic-1/dapp.md)
