@@ -11,7 +11,7 @@ coverY: 35.019455252918284
 
 30% listen2earn \
 3% airdrop \
-2% team vesting 30 days / opens in 1 year \
+2% team /opens in 1 year \
 8% staking Music vesting 60 days \
 33% presale \
 23% Liquidity \

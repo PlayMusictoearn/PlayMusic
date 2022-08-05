@@ -23,7 +23,7 @@ For music there are no barriers, whether you are a street artist, a metal drumme
 With this, we seek to make real the paradox of fugacity to eternity. Our mission is to break through the antinomy and be pioneer in the unorthodox path to musical innovation.
 
 We are ready to give you a new experience just by listening to music.\
-A completely new and different experience, where your routine in listening to music won't change and you are still rewarded for it, that's really cool. For every minute of music you listen to you will be rewarded with PlayMusic tokens, pretty cool don't you think?
+A completely new and different experience, where your routine in listening to music won't change and you are still rewarded for it, that's really cool.For every minute of music you listen to, you will be rewarded with PlayMusic tokens, pretty cool don't you think?
 
 * Trusted Platform
 * Modern Technology
