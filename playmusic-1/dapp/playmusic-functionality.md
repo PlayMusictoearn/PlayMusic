@@ -15,7 +15,8 @@ Listener and composer with this, every song that the investor listens to, the su
 <!---->
 
 * [x] 60% - will be shared between artists and listeners&#x20;
-* [x] 30% - will be shared in PlayMusic's fund, for performances in the various project fronts (examples; updates, mass marketing, etc.)&#x20;
+* [x] 10% - will be shared in PlayMusic's fund, for performances in the various project fronts (examples; updates, mass marketing, etc.)&#x20;
+* [x] 20%  - Liquidity pool
 * [x] 10% - will be used to buy PLAY Token and be burned.
 
 <!---->
