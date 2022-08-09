@@ -19,5 +19,5 @@ coverY: 35.019455252918284
 
 ## &#x20;Selling tax allocation
 
-* Buying TAX is 4% (2% International Partnerships and 2%rewards)
-* Selling Tax is 4% (3% Liquidity  and 1% rewards)
+* Buying TAX is 0%&#x20;
+* Selling Tax is 0%&#x20;
